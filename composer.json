@@ -1,0 +1,17 @@
+{
+    "name": "frugal-php/console",
+    "description": "Console mode for frugal php app",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Frugal\\Console\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Grégory COLLIN",
+            "email": "gregory@badass-coding.com"
+        }
+    ],
+    "require": {}
+}
